@@ -1,0 +1,9 @@
+#venv
+postgresql-tutorial/
+
+#ini
+database.ini
+
+#cache
+
+__pycache__
